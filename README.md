@@ -35,6 +35,13 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img alt="MySQL" width="50" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/3d2a36d9884308524cf0cdbefa45dbd238aad514/images/svg/mysql.svg"/></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="50" alt="Firebase" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+
+## Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Sylvie-Molinatto"><img src="https://github-readme-stats.vercel.app/api?username=Sylvie-Molinatto&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Sylvie-Molinatto's GitHub stats" /></a>
+
 <!--
 **Sylvie-Molinatto/sylvie-molinatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
