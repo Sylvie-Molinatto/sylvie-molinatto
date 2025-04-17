@@ -1,11 +1,12 @@
-# <p align='center'>**Hi there, I'm Sylvie**👋<p>
-<p align='center'> I'm a Software Engineering student at Polytechnic University of Turin. </p>
-<p align='center'> 🎓 Bachelor degree in Engineering and Management (L-8) at Polytechnic University of Turin </p>
+# <p align='center'>**Hi there, I'm Sylvie** 👋</p>
+<p align='center'>I'm a Computer Engineering graduate from Politecnico di Torino, with a passion for user-centered software development.</p>
+<p align='center'>🎓 MSc in Computer Engineering (Software track)</p>
+<p align='center'>🎓 BSc in Engineering and Management (L-8)</p>
 <br>
 
-* 🌍  I'm based in Italy
-* ✉️  You can contact me at [sylvie.molinatto00@gmail.com](mailto:sylvie.molinatto00@gmail.com)
-* 🚀  I'm currently working on [My Portfolio](http://sylvie-molinatto.github.io/portfolio-website/)
+* 🌍 I'm based in Italy  
+* ✉️ You can contact me at [sylvie.molinatto00@gmail.com](mailto:sylvie.molinatto00@gmail.com)  
+* 🚀 Check out [my portfolio](http://sylvie-molinatto.github.io/portfolio-website/)  
 
 ## **Connect with me**
 [<img align="left" alt="linked-in" width="50" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />](https://github.com/sylviemolinatto)
